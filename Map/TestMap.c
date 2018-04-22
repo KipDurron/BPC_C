@@ -1,3 +1,4 @@
+//3 элемент массива ув. на 3
 void PlusTree(int *celArray)
 {
     *celArray = *celArray +3;
