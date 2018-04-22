@@ -6,7 +6,8 @@
 int main()
 {
 
-   testMap();
+testsMap();
+testsWhere();
    //printf ("%i", array[2]);
     return 0;
 }

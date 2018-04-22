@@ -1,12 +1,15 @@
 # depslib dependency file v1.0
-1524426390 source:c:\users\ishun\desktop\bpc\Ñ\bpc_c\bpc_c\map\main.c
+1524427755 source:c:\users\ishun\desktop\bpc\Ñ\bpc_c\bpc_c\map\main.c
 	<stdio.h>
 	<stdlib.h>
 	"header.h"
 
-1524426169 c:\users\ishun\desktop\bpc\Ñ\bpc_c\bpc_c\map\header.h
+1524428699 c:\users\ishun\desktop\bpc\Ñ\bpc_c\bpc_c\map\header.h
 
-1524425858 source:c:\users\ishun\desktop\bpc\Ñ\bpc_c\bpc_c\map\map.c
+1524426864 source:c:\users\ishun\desktop\bpc\Ñ\bpc_c\bpc_c\map\map.c
 
-1524426390 source:c:\users\ishun\desktop\bpc\Ñ\bpc_c\bpc_c\map\testmap.c
+1524427264 source:c:\users\ishun\desktop\bpc\Ñ\bpc_c\bpc_c\map\testmap.c
+
+1524428643 source:c:\users\ishun\desktop\bpc\Ñ\bpc_c\bpc_c\map\where.c
+	<stdbool.h>
 
