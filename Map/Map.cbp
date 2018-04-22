@@ -31,6 +31,19 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="Map.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="TestMap.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="TestWhere.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Where.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="header.h" />
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
