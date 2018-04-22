@@ -2,12 +2,12 @@
 <CodeBlocks_project_file>
 	<FileVersion major="1" minor="6" />
 	<Project>
-		<Option title="Map" />
+		<Option title="informatics" />
 		<Option pch_mode="2" />
 		<Option compiler="gcc" />
 		<Build>
 			<Target title="Debug">
-				<Option output="bin/Debug/Map" prefix_auto="1" extension_auto="1" />
+				<Option output="bin/Debug/informatics" prefix_auto="1" extension_auto="1" />
 				<Option object_output="obj/Debug/" />
 				<Option type="1" />
 				<Option compiler="gcc" />
@@ -16,7 +16,7 @@
 				</Compiler>
 			</Target>
 			<Target title="Release">
-				<Option output="bin/Release/Map" prefix_auto="1" extension_auto="1" />
+				<Option output="bin/Release/informatics" prefix_auto="1" extension_auto="1" />
 				<Option object_output="obj/Release/" />
 				<Option type="1" />
 				<Option compiler="gcc" />
@@ -31,20 +31,14 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
-		<Unit filename="Map.c">
-			<Option compilerVar="CC" />
-		</Unit>
-		<Unit filename="TestMap.c">
-			<Option compilerVar="CC" />
-		</Unit>
-		<Unit filename="TestWhere.c">
-			<Option compilerVar="CC" />
-		</Unit>
-		<Unit filename="Where.c">
+		<Unit filename="EvenNumber.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="header.h" />
 		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="square.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Extensions>

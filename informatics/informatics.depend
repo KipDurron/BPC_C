@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1524431998 source:c:\users\ishun\desktop\bpc\Ñ\bpc_c\informatics\evennumber.c
+
+1524431886 source:c:\users\ishun\desktop\bpc\Ñ\bpc_c\informatics\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1524431898 c:\users\ishun\desktop\bpc\Ñ\bpc_c\informatics\header.h
+
+1524432072 source:c:\users\ishun\desktop\bpc\Ñ\bpc_c\informatics\square.c
+
